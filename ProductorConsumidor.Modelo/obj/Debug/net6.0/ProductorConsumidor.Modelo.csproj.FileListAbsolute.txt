@@ -1,0 +1,11 @@
+C:\Users\hered\Downloads\Curso C#\ProductorConsumidor\ProductorConsumidor.Modelo\bin\Debug\net6.0\ProductorConsumidor.Modelo.deps.json
+C:\Users\hered\Downloads\Curso C#\ProductorConsumidor\ProductorConsumidor.Modelo\bin\Debug\net6.0\ProductorConsumidor.Modelo.dll
+C:\Users\hered\Downloads\Curso C#\ProductorConsumidor\ProductorConsumidor.Modelo\bin\Debug\net6.0\ProductorConsumidor.Modelo.pdb
+C:\Users\hered\Downloads\Curso C#\ProductorConsumidor\ProductorConsumidor.Modelo\obj\Debug\net6.0\ProductorConsumidor.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hered\Downloads\Curso C#\ProductorConsumidor\ProductorConsumidor.Modelo\obj\Debug\net6.0\ProductorConsumidor.Modelo.AssemblyInfoInputs.cache
+C:\Users\hered\Downloads\Curso C#\ProductorConsumidor\ProductorConsumidor.Modelo\obj\Debug\net6.0\ProductorConsumidor.Modelo.AssemblyInfo.cs
+C:\Users\hered\Downloads\Curso C#\ProductorConsumidor\ProductorConsumidor.Modelo\obj\Debug\net6.0\ProductorConsumidor.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\hered\Downloads\Curso C#\ProductorConsumidor\ProductorConsumidor.Modelo\obj\Debug\net6.0\ProductorConsumidor.Modelo.dll
+C:\Users\hered\Downloads\Curso C#\ProductorConsumidor\ProductorConsumidor.Modelo\obj\Debug\net6.0\refint\ProductorConsumidor.Modelo.dll
+C:\Users\hered\Downloads\Curso C#\ProductorConsumidor\ProductorConsumidor.Modelo\obj\Debug\net6.0\ProductorConsumidor.Modelo.pdb
+C:\Users\hered\Downloads\Curso C#\ProductorConsumidor\ProductorConsumidor.Modelo\obj\Debug\net6.0\ref\ProductorConsumidor.Modelo.dll
